@@ -1,1 +1,1 @@
-Esta es la carpeta de los ejercicios de tarea del cirso de metodos numericos
+Esta es la carpeta de los ejercicios de tarea del curso de metodos numericos
